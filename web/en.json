@@ -217,6 +217,7 @@
     "public_forms_settings_deleteAccount_text": "No longer want to use our service? You can delete your account here. This action is not reversible. All information related to this account will be deleted permanently",
     "public_forms_settings_deleteAccount_yesDelete": "Yes, delete my account",
     "public_forms_settings_logOut_yourPassword": "Your Password",
+	"public_forms_settings_personalInfo_changeAvatar": "Change avatar",
     "public_forms_settings_plan_creditCard_3D": "I want to pay using 3D Secure",
     "public_forms_settings_plan_creditCard_address": "Address",
     "public_forms_settings_plan_creditCard_addressInfo": "Enter an address where we can reach you",
