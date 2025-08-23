@@ -167,6 +167,8 @@
     "public_forms_settings_company_config_paytrDescription": "PAYTR sağlayıcısı tarafından tahsis edilen servisi kullanırsınız. Ödeme alabilir ve sağlayıcınıza bir miktar komisyon ödersiniz",
     "public_forms_settings_company_config_regionHeader": "Bölgesel ayarlar",
     "public_forms_settings_company_config_regionTitle": "Faaliyet gösterdiğiniz bölgeyi seçin",
+    "public_forms_settings_company_config_taxAmount": "Vergi (KDV) oranı",
+    "public_forms_settings_company_config_taxShow": "Fiyatları vergi dahil göster",
     "public_forms_settings_company_config_text": "Bu kısımdan siteniz ile alakalı bir takım ayarları güncelleyerek, müşterilerinize çeşitli avantajlar uygulayabilirsiniz",
     "public_forms_settings_company_contentPlaceholder": "Yazmaya başla...",
     "public_forms_settings_company_general_apiUrl": "Dükkan servis adı",
