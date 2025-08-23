@@ -168,6 +168,8 @@
     "public_forms_settings_company_config_regionHeader": "Regional settings",
     "public_forms_settings_company_config_regionTitle": "Select the region in which you operate",
     "public_forms_settings_company_config_text": "By updating a number of settings related to your site from this section, you can apply various advantages to your customers",
+    "public_forms_settings_company_config_taxAmount": "Tax (VAT) rate",
+    "public_forms_settings_company_config_taxShow": "Show prices including tax",
     "public_forms_settings_company_contentPlaceholder": "Write something...",
     "public_forms_settings_company_general_apiUrl": "Shop service name",
     "public_forms_settings_company_general_baseUrl": "Shop host name",
