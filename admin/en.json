@@ -181,6 +181,8 @@
     "public_forms_settings_company_general_shopName": "Shop name",
     "public_forms_settings_company_general_text": "You can edit the general settings of your shop.",
     "public_forms_settings_company_general_timeZone": "Time zone",
+    "public_forms_settings_company_theme_information": "Homepage customization",
+    "public_forms_settings_company_theme_text": "You can edit the content on your homepage or hide the ones you don't like",
     "public_forms_settings_company_translation_header": "Add language pack",
     "public_forms_settings_company_translation_locale": "File extension",
     "public_forms_settings_company_translation_name": "File name",
