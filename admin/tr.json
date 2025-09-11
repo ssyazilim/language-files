@@ -527,6 +527,8 @@
     "public_page_review_title": "Düzenleme işlemi",
     "public_page_settings_company_sellerHeader": "Temel ayarlar",
     "public_page_settings_company_sellerTitle": "Mağazanıza ait logo, adres v.b ayarları düzenleyebilirsiniz. Ayrıca mağazanızın para birimi, saat dilimi v.b ekstra özelliklerini de belirleyebilirsiniz.",
+    "public_page_settings_company_siteHeader": "Site ayarları",
+    "public_page_settings_company_siteTitle": "Mağazanızın işleyişine dair temel ayarları bu bölümden yapılandırabilirsiniz. Ödeme yöntemleri, ürün özellikleri ve sipariş süreçlerine ilişkin ayarları buradan yönetebilirsiniz",
     "public_page_settings_company_themeHeader": "Tema ayarları",
     "public_page_settings_company_themeTitle": "Dükkanınızın görsel görünümünü ve kullanıcı deneyimini kişiselleştirmeye yarayan ayarlardır. Renk düzeni, Yazı tipi, Arka plan ve Tasarım gibi özelleştirmeleri kontrol edebilirsiniz",
     "public_page_settings_company_translationHeader": "Dil ayarları",
