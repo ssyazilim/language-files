@@ -532,8 +532,6 @@
     "public_page_settings_company_sellerTitle": "You can edit the logo, address, etc. settings of your store. You can also specify extra features of your store such as currency, time zone, etc.",
         "public_page_settings_company_siteHeader": "Site settings",
     "public_page_settings_company_siteTitle": "You can configure the basic settings for your store's operation in this section. You can manage settings related to payment methods, product features, and order processes here",
-    "public_page_settings_company_themeHeader": "Theme settings",
-    "public_page_settings_company_themeTitle": "These are settings to customize the visual appearance and user experience of your shop. You can control customizations such as Color scheme, Font, Background and Design",
     "public_page_settings_company_translationHeader": "Language settings",
     "public_page_settings_company_translationTitle": "You can add a new language pack or edit your existing one",
     "public_page_settings_user_accountHeader": "User information",
