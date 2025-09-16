@@ -186,6 +186,8 @@
     "public_forms_settings_company_site_doorToDoor_max": "Maximum tutar",
     "public_forms_settings_company_site_paymentInformation": "Ekstra ödeme yöntemleri",
     "public_forms_settings_company_site_paymentText": "Nakit ödeme yani online sipariş zaten sistem içerisinde her türlü durumda aktiftir. Diğer yöntemler ise opsiyonel olarak tercih edilebilir",
+    "public_forms_settings_company_site_productInformation": "Ürün odaklı ayarlamalar",
+    "public_forms_settings_company_site_productText": "Bu bölümde, ürün detay sayfasında kullanıcıya sunulacak özellikleri ve davranışları yapılandırabilirsiniz. Her bir seçeneği ihtiyacınıza göre özelleştirerek, kullanıcı deneyimini artırabilir ve satış performansınızı optimize edebilirsiniz",
     "public_forms_settings_company_theme_category": "Ürün kategorilerini listele",
     "public_forms_settings_company_theme_cta": "İletişime geç kutusu göster",
     "public_forms_settings_company_theme_feature": "Özellik kutusu göster",
