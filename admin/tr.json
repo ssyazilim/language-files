@@ -183,6 +183,7 @@
     "public_forms_settings_company_config_selectedProductList_5": "Eklenme tarihine göre azalan",
     "public_forms_settings_company_config_selectedProductList_6": "Eklenme tarihine göre artan",
     "public_forms_settings_company_config_selectedProductList_7": "Satış sayısına göre azalan",
+    "public_forms_settings_company_config_showTaxAmount": "Ürün fiyatlarını KDV dahil göster",
     "public_forms_settings_company_config_taxAmount": "Vergi (KDV) oranı",
     "public_forms_settings_company_config_taxShow": "Fiyatları vergi dahil göster",
     "public_forms_settings_company_config_text": "Bu kısımdan siteniz ile alakalı bir takım ayarları güncelleyerek, müşterilerinize çeşitli avantajlar uygulayabilirsiniz",
