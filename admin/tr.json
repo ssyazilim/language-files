@@ -14,6 +14,8 @@
     "public_aria_modal_deleteTitle": "Silme onayı!",
     "public_aria_modal_promptTitle": "İşlem onayı!",
     "public_aria_modal_promptText": "Ürün için yapay zeka desteği kullanılacaktır. Yapay zekanın üretmiş olduğu prompt içeriğini lütfen kontrol ediniz",
+    "public_aria_modal_warningTitle": "Uyarı onayı!",
+    "public_aria_modal_warningSKUText": "Ürünlerinizin tamamı için SKU yani Ürün Stok Numarası değeri sistem tarafından otomatik olarak atanacaktır. Atama 6 karakter olarak yapılacak ve harf ve sayılardan oluşacaktır",
     "public_error_400": "Tanımlanamayan istek",
     "public_error_401": "Yetkisiz erişim",
     "public_error_403": "Kısıtlanmış erişim",
