@@ -174,6 +174,7 @@
     "public_forms_settings_company_config_paytrDescription": "You use the service provided by the PAYTR provider. You receive payments and pay some commission to your provider",
     "public_forms_settings_company_config_regionHeader": "Regional settings",
     "public_forms_settings_company_config_regionTitle": "Select the region in which you operate",
+    "public_forms_settings_company_config_selectPlaceholder": "Select the listing method",
     "public_forms_settings_company_config_selectedProductListing": "Product listing order",
     "public_forms_settings_company_config_selectedProductList_1": "Price decreasing",
     "public_forms_settings_company_config_selectedProductList_2": "Increasing in price",
