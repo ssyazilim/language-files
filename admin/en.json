@@ -183,6 +183,7 @@
     "public_forms_settings_company_config_selectedProductList_5": "Sorted by date added, descending",
     "public_forms_settings_company_config_selectedProductList_6": "Increasing by date added",
     "public_forms_settings_company_config_selectedProductList_7": "In descending order by sales volume",
+    "public_forms_settings_company_config_showTaxAmount": "Display product prices including VAT",
     "public_forms_settings_company_config_text": "By updating a number of settings related to your site from this section, you can apply various advantages to your customers",
     "public_forms_settings_company_config_taxAmount": "Tax (VAT) rate",
     "public_forms_settings_company_config_taxShow": "Show prices including tax",
