@@ -171,7 +171,7 @@
     "public_forms_settings_company_config_notifyWhenPriceDrops": "Notify me when the price drops",
     "public_forms_settings_company_config_notifyWhenProductBackInStock": "Notify me when the product is back in stock",
     "public_forms_settings_company_config_orderCanDelete": "Can orders be deleted from the system?",
-    "public_forms_settings_company_config_orderPrefix": "Send a date prefix to the beginning of order numbers (DD-MM-YYYY_ORDERCODE)",
+    "public_forms_settings_company_config_orderPrefix": "Send a date prefix to the beginning of order numbers",
     "public_forms_settings_company_config_paymentHeader": "Payment services",
     "public_forms_settings_company_config_paymentTitle": "Select your preferred method of receiving payments on your site. Online ordering will always remain active",
     "public_forms_settings_company_config_paytr": "PAYTR",
