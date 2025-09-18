@@ -171,7 +171,7 @@
     "public_forms_settings_company_config_notifyWhenPriceDrops": "Ürünün fiyatı düştüğünde haber ver",
     "public_forms_settings_company_config_notifyWhenProductBackInStock": "Ürün stoklara geri geldiğinde haber ver",
     "public_forms_settings_company_config_orderCanDelete": "Sistemdeki siparişler silinebilsin mi?",
-    "public_forms_settings_company_config_orderPrefix": "Sipariş numaralarının başına tarih ön eki gönder (DD-MM-YYYY_SİPARİŞKODU)",
+    "public_forms_settings_company_config_orderPrefix": "Sipariş numaralarının başına tarih ön eki gönder",
     "public_forms_settings_company_config_paymentHeader": "Ödeme servisleri",
     "public_forms_settings_company_config_paymentTitle": "Sitenizde tercih ettiğiniz ödeme alma yöntemini seçin. Online sipariş her zaman aktif olarak kalacaktır",
     "public_forms_settings_company_config_paytr": "PAYTR",
