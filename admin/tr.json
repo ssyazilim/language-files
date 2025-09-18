@@ -203,6 +203,8 @@
     "public_forms_settings_company_site_doorToDoor": "Kapıda ödeme yöntemini aktif et",
     "public_forms_settings_company_site_doorToDoor_min": "Minimum tutar",
     "public_forms_settings_company_site_doorToDoor_max": "Maximum tutar",
+    "public_forms_settings_company_site_orderInformation": "Ürün sipariş seçenekleri",
+    "public_forms_settings_company_site_orderText": "Siparişlerinizi daha verimli yönetebilmeniz için gerekli tüm yapılandırmaları bu bölümden gerçekleştirebilirsiniz",
     "public_forms_settings_company_site_paymentInformation": "Ekstra ödeme yöntemleri",
     "public_forms_settings_company_site_paymentText": "Nakit ödeme yani online sipariş zaten sistem içerisinde her türlü durumda aktiftir. Diğer yöntemler ise opsiyonel olarak tercih edilebilir",
     "public_forms_settings_company_site_productInformation": "Ürün odaklı ayarlamalar",
