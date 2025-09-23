@@ -516,6 +516,7 @@
     "public_product_tab_review_addDesc": "Değerlendirme ekleyerek diğer kullanıcıların da tecrübelerinizden faydalanmasına izin verin!",
     "public_product_tab_review_header": "Tüm değerlendirmeler",
     "public_product_tab_review_noReview": "Ürün için henüz hiç değerlendirme yapılmadı",
+	"public_product_tab_review_noUser": "Silinmiş kullanıcı",
     "public_product_tab_review_totalReview": "değerlendirme",
     "public_product_twitter_icon": "bi:twitter-x",
     "public_settings_currency": "₺",
