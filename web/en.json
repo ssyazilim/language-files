@@ -516,6 +516,7 @@
     "public_product_tab_review_addDesc": "Let other users benefit from your experiences by adding comments!",
     "public_product_tab_review_header": "All comments",
     "public_product_tab_review_noReview": "There are no reviews yet for this product",
+	"public_product_tab_review_noUser": "Deleted user",
     "public_product_tab_review_totalReview": "Number of comments available",
     "public_product_twitter_icon": "",
     "public_settings_currency": "₺",
