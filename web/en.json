@@ -526,5 +526,6 @@
     "public_settings_currency": "₺",
     "public_settings_loading": "https://c.tenor.com/whis5JX19ycAAAAd/tenor.gif",
     "public_settings_noImage": "https://minio.ssyazilim.com/images/default/products/no-image.png",
+	"public_settings_tax": "+ VAT",
 	"public_sliders_button": "Check products"
 }
