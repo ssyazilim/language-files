@@ -263,6 +263,7 @@
     "public_forms_signIn_others": "ile giriş",
     "public_forms_signIn_password": "Şifre",
     "public_forms_signIn_title": "Hesabına giriş yap",
+	"public_forms_signUp_activationType": "Aktivasyon yöntemi",
     "public_forms_signUp_button": "Kayıt ol",
     "public_forms_signUp_desc": "Veya başka şekilde kayıt olabilirsiniz",
     "public_forms_signUp_password": "Şifre",
