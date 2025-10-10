@@ -90,6 +90,7 @@
 	"public_footer_subscribeNoSpamDesc": "Sadece ilgili içerikler tarafımızca gönderirilir, gereksiz e-posta asla atılmaz",
 	"public_footer_subscribeWeekly": "Haftalık yayınlanan gönderiler",
 	"public_footer_subscribeWeeklyDesc": "Her hafta e-posta kutunuza yayımlanan gönderiler gelsin. İlgi alanlarınızı güncel tutun",
+	"public_forms_activateUser_captcha": "ile aktif et",
 	"public_forms_activateUser_code": "Hesap aktivasyonu",
 	"public_forms_activateUser_codeDesc": "Hesabınızı aktif etmek için lütfen e-posta adresine göndermiş olduğumuz 6 karakterli kodu girin. Bazen göndermiş olduğumuz e-posta spam klasörünüze düşebiliyor. Spam klasörünü de kontrol etmeyi unutmayın. Eğer hala kod gelmemiş ise sürenin dolmasını bekleyin ve aktivasyon işlemine manuel olarak devam edin",
 	"public_forms_activateUser_codeExpired": "Kodun geçerlilik süresi doldu",
