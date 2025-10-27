@@ -319,6 +319,7 @@
   "public_forms_validations_noDeleteForVariant": "Variant deletion should be done one by one or all of them!",
   "public_forms_validations_number": "Content can only contain numbers!",
   "public_forms_validations_numeric": "Content can only contain numbers!",
+  "public_forms_validations_phonePattern": "The phone number must have a country code at the beginning (90xxxxxxxxxx)",
   "public_forms_validations_required": "The field is required!",
   "public_forms_validations_sameAs": "Passwords don't match!",
   "public_forms_validations_tooManyFiles": "You cannot upload more than 5 images at a time",

@@ -319,6 +319,7 @@
   "public_forms_validations_noDeleteForVariant": "Varyant silme işlemi tek tek veya hepsi şeklinde yapılmalıdır!",
   "public_forms_validations_number": "İçerik sadece numara içerebilir!",
   "public_forms_validations_numeric": "İçerik sadece numara içerebilir!",
+  "public_forms_validations_phonePattern": "Telefon numarasının başında ülke kodu olmalı (90xxxxxxxxxx)",
   "public_forms_validations_required": "Bu alan gereklidir!",
   "public_forms_validations_sameAs": "Şifreleriniz eşleşmiyor!",
   "public_forms_validations_tooManyFiles": "Bir seferde 5'ten fazla resim yükleyemezsiniz",
