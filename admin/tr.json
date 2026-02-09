@@ -395,6 +395,7 @@
   "public_menu_login": "Giriş yap",
   "public_menu_modules": "Modüller",
   "public_menu_more": "Ekstra",
+  "public_menu_multiple": "Çoğalt",
   "public_menu_orderSettings": "Sipariş ayarları",
   "public_menu_payment": "Ödeme yöntemi",
   "public_menu_paymentSettings": "Ödeme ayarları",
@@ -404,6 +405,7 @@
   "public_menu_questions": "Sorular",
   "public_menu_register": "Kayıt ol",
   "public_menu_resetPassword": "Şifreni yenile",
+  "public_menu_review": "Teklifleri incele",
   "public_menu_reviews": "Değerlendirme",
   "public_menu_seller": "Temel ayarları",
   "public_menu_settings": "Ayarlar",
@@ -641,6 +643,9 @@
   "public_page_settings_user_paymentHeader": "Ödeme bilgileri",
   "public_page_settings_user_paymentTitle": "Hesabıza özel ödeme yöntemi tanımlayarak, kullanıcıların daha rahat ve size güvenerek ürünlerinizi satın alabileceği bir ortam sunar. Mesela IBAN bilgilerinizi girerek, kredi kartı kullanmak istemeyen kullanıcılar için alternatif bir ödeme yöntemi oluşturabilirsiniz",
   "public_page_shipment_editTable_price": "ÜRÜN FİYATI",
+  "public_page_shipment_multiple_title": "Gönderi çoğaltma",
+  "public_page_shipment_review_desc": "Tahmini teslimat süresi ve memnuniyet oranı binlerce teslimatın meta verisiyle eğitilen makine öğrenimi modeli ile elde edilmiştir. Şubenizden kaynaklanan gecikmeler ve hava koşulları gibi faktörler bu süreyi etkileyebilir",
+  "public_page_shipment_review_title": "Alınan teklifler",
   "public_page_traffic_editTable_browser": "TARAYICI",
   "public_page_traffic_editTable_details": "DETAYLAR",
   "public_page_traffic_editTable_ipAddress": "IP ADRESi",
@@ -665,6 +670,7 @@
   "public_page_variant_desc": "Ürün altına eklediğiniz varyantları bu panel aracılığı ile düzenleyebilirsiniz!",
   "public_page_variant_title": "Varyant işlemleri",
   "public_settings_currency": "₺",
+  "public_settings_includeTax": "vergiler dahil",
   "public_settings_loading": "https://media.tenor.com/SdDj408O1PoAAAAi/discord-loading.gif",
   "public_settings_noImage": "https://spb-pochin.ru/wp-content/uploads/2023/08/placeholder.png"
 }

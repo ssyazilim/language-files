@@ -395,6 +395,7 @@
   "public_menu_login": "Login",
   "public_menu_modules": "Modules",
   "public_menu_more": "Extra",
+  "public_menu_multiple": "Multiple",
   "public_menu_orderSettings": "Order settings",
   "public_menu_payment": "Payment methods",
   "public_menu_paymentSettings": "Payment settings",
@@ -404,6 +405,7 @@
   "public_menu_questions": "Questions",
   "public_menu_register": "Register",
   "public_menu_resetPassword": "Reset password",
+  "public_menu_review": "Check the offers",
   "public_menu_reviews": "Reviews",
   "public_menu_seller": "Seller settings",
   "public_menu_settings": "Settings",
@@ -641,6 +643,9 @@
   "public_page_settings_user_paymentHeader": "Payment information",
   "public_page_settings_user_paymentTitle": "By defining your account-specific payment method, it offers an environment where users can buy your products more conveniently and relying on you. For example, by entering your IBAN information, you can create an alternative payment method for users who do not want to use credit cards",
   "public_page_shipment_editTable_price": "PRODUCT PRICE",
+  "public_page_shipment_multiple_title": "Duplicate shipment",
+  "public_page_shipment_review_desc": "Estimated delivery time and satisfaction rate were obtained using a machine learning model trained on metadata from thousands of deliveries. Factors such as delays originating from your branch and weather conditions may affect this time",
+  "public_page_shipment_review_title": "Offers received",
   "public_page_traffic_editTable_browser": "BROWSER",
   "public_page_traffic_editTable_details": "DETAILS",
   "public_page_traffic_editTable_ipAddress": "IP ADDRESS",
@@ -665,6 +670,7 @@
   "public_page_variant_desc": "You can edit the variants you added under the product via this panel!",
   "public_page_variant_title": "Variant operations",
   "public_settings_currency": "₺",
+  "public_settings_includeTax": "including taxes",
   "public_settings_loading": "https://media.tenor.com/SdDj408O1PoAAAAi/discord-loading.gif",
   "public_settings_noImage": "https://spb-pochin.ru/wp-content/uploads/2023/08/placeholder.png"
 }
