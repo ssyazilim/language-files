@@ -180,6 +180,8 @@
   "public_forms_checkout_shippingTitle": "يرجى اختيار مزود خدمة الشحن :",
   "public_forms_checkout_summary": "ملخص الطلب",
   "public_forms_checkout_summaryDesc": "يرجى التحقق من ملخص طلبك",
+  "public_forms_checkout_summaryOffline": "التسوق دون اتصال بالإنترنت",
+  "public_forms_checkout_summaryOnline": "التسوق عبر الإنترنت",
   "public_forms_checkout_summary_formsAgreement": "اتفاقيات المستخدم والنماذج",
   "public_forms_checkout_summary_formsAgreementDesc": "لقد قرأت وأوافق",
   "public_forms_commandPalette_brand": "العلامات التجارية",

@@ -180,6 +180,8 @@
   "public_forms_checkout_shippingTitle": "Пожалуйста, выберите службу доставки:",
   "public_forms_checkout_summary": "СВОДКА ЗАКАЗА",
   "public_forms_checkout_summaryDesc": "Пожалуйста, проверьте сводку вашего заказа",
+  "public_forms_checkout_summaryOffline": "оффлайн покупки",
+  "public_forms_checkout_summaryOnline": "Интернет-магазины",
   "public_forms_checkout_summary_formsAgreement": "Пользовательские соглашения и формы",
   "public_forms_checkout_summary_formsAgreementDesc": "Я прочитал и принимаю",
   "public_forms_commandPalette_brand": "Бренды",

@@ -180,6 +180,8 @@
   "public_forms_checkout_shippingTitle": "لطفاً یک شرکت حمل و نقل را انتخاب کنید:",
   "public_forms_checkout_summary": "خلاصه سفارش",
   "public_forms_checkout_summaryDesc": "لطفاً خلاصه سفارش خود را بررسی کنید",
+  "public_forms_checkout_summaryOffline": "خرید آفلاین",
+  "public_forms_checkout_summaryOnline": "خرید اینترنتی",
   "public_forms_checkout_summary_formsAgreement": "قراردادها و فرم‌های کاربر",
   "public_forms_checkout_summary_formsAgreementDesc": "خواندم و می‌پذیرم",
   "public_forms_commandPalette_brand": "برندها",

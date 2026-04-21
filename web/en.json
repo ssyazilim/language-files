@@ -180,6 +180,8 @@
   "public_forms_checkout_shippingTitle": "Please select a shipping provider :",
   "public_forms_checkout_summary": "ORDER SUMMARY",
   "public_forms_checkout_summaryDesc": "Please check your order summary",
+  "public_forms_checkout_summaryOffline": "Offline shopping",
+  "public_forms_checkout_summaryOnline": "Online shopping",
   "public_forms_checkout_summary_formsAgreement": "User agreements and forms",
   "public_forms_checkout_summary_formsAgreementDesc": "I have read and accept",
   "public_forms_commandPalette_brand": "Brands",

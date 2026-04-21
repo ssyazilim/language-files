@@ -180,6 +180,8 @@
   "public_forms_checkout_shippingTitle": "Lütfen bir kargo sağlayıcısı seçiniz :",
   "public_forms_checkout_summary": "SİPARİŞ ÖZETİ",
   "public_forms_checkout_summaryDesc": "Lütfen sipariş özetinizi kontrol ediniz",
+  "public_forms_checkout_summaryOffline": "Çevrimdışı alışveriş",
+  "public_forms_checkout_summaryOnline": "Çevrimiçi alışveriş",
   "public_forms_checkout_summary_formsAgreement": "Kullanıcı sözleşme ve formlarını",
   "public_forms_checkout_summary_formsAgreementDesc": "okudum ve kabul ediyorum",
   "public_forms_commandPalette_brand": "Markalar",
