@@ -177,6 +177,8 @@
   "public_forms_checkout_shipping": "گزینه‌های ارسال",
   "public_forms_checkout_shippingCoPaid": "پرداخت مشترک",
   "public_forms_checkout_shippingDesc": "چگونه مایلید محموله خود را دریافت کنید؟",
+  "public_forms_checkout_shippingOption_heavyDealer": "تحویل محموله‌های سنگین",
+  "public_forms_checkout_shippingOption_noDealer": "آن را از فروشگاه تحویل می‌گیرم",
   "public_forms_checkout_shippingTitle": "لطفاً یک شرکت حمل و نقل را انتخاب کنید:",
   "public_forms_checkout_summary": "خلاصه سفارش",
   "public_forms_checkout_summaryDesc": "لطفاً خلاصه سفارش خود را بررسی کنید",

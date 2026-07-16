@@ -177,6 +177,8 @@
   "public_forms_checkout_shipping": "خيارات الشحن",
   "public_forms_checkout_shippingCoPaid": "دفع مشترك",
   "public_forms_checkout_shippingDesc": "كيف ترغب في استلام شحنتك؟",
+  "public_forms_checkout_shippingOption_heavyDealer": "تسليم الأحمال الثقيلة",
+  "public_forms_checkout_shippingOption_noDealer": "سأستلمه من المتجر",
   "public_forms_checkout_shippingTitle": "يرجى اختيار مزود خدمة الشحن :",
   "public_forms_checkout_summary": "ملخص الطلب",
   "public_forms_checkout_summaryDesc": "يرجى التحقق من ملخص طلبك",

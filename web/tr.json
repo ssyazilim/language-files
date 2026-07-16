@@ -177,6 +177,8 @@
   "public_forms_checkout_shipping": "KARGO SEÇENEKLERİ",
   "public_forms_checkout_shippingCoPaid": "Karşı ödemeli",
   "public_forms_checkout_shippingDesc": "Teslimatınızı hangi kargo firmasının gerçekleştirmesini istersiniz?",
+  "public_forms_checkout_shippingOption_heavyDealer": "Ağır yük teslimatı",
+  "public_forms_checkout_shippingOption_noDealer": "Mağazadan teslim alacağım",
   "public_forms_checkout_shippingTitle": "Lütfen bir kargo sağlayıcısı seçiniz :",
   "public_forms_checkout_summary": "SİPARİŞ ÖZETİ",
   "public_forms_checkout_summaryDesc": "Lütfen sipariş özetinizi kontrol ediniz",

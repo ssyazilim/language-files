@@ -177,6 +177,8 @@
   "public_forms_checkout_shipping": "ВАРИАНТЫ ДОСТАВКИ",
   "public_forms_checkout_shippingCoPaid": "Совместная оплата",
   "public_forms_checkout_shippingDesc": "Как бы вы хотели получить свою посылку?",
+  "public_forms_checkout_shippingOption_heavyDealer": "Доставка тяжелых грузов",
+  "public_forms_checkout_shippingOption_noDealer": "Я заберу это из магазина",
   "public_forms_checkout_shippingTitle": "Пожалуйста, выберите службу доставки:",
   "public_forms_checkout_summary": "СВОДКА ЗАКАЗА",
   "public_forms_checkout_summaryDesc": "Пожалуйста, проверьте сводку вашего заказа",

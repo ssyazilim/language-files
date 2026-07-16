@@ -177,6 +177,8 @@
   "public_forms_checkout_shipping": "SHIPPING OPTIONS",
   "public_forms_checkout_shippingCoPaid": "Co payment",
   "public_forms_checkout_shippingDesc": "How would you like to receive your shipment?",
+  "public_forms_checkout_shippingOption_heavyDealer": "Heavy load delivery",
+  "public_forms_checkout_shippingOption_noDealer": "I will pick it up from the store",
   "public_forms_checkout_shippingTitle": "Please select a shipping provider :",
   "public_forms_checkout_summary": "ORDER SUMMARY",
   "public_forms_checkout_summaryDesc": "Please check your order summary",
