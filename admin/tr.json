@@ -1,5 +1,10 @@
 {
   "public_components_dataDisplays_activityFeed_header": "Ülkelere göre giriş sayısı",
+  "public_components_dataDisplays_mediaDetail_addTag": "Etiket ekle",
+  "public_components_dataDisplays_mediaDetail_noTags": "Bu dosyaya henüz bir etiket eklenmemiş",
+  "public_components_dataDisplays_mediaDetail_tagKey": "Anahtar",
+  "public_components_dataDisplays_mediaDetail_tagValue": "Değer",
+  "public_components_dataDisplays_mediaDetail_tagging": "Etiketler",
   "public_components_dataDisplays_mediaUploads_downloadHeader": "İndiriliyor",
   "public_components_dataDisplays_mediaUploads_error": "Hata",
   "public_components_dataDisplays_mediaUploads_header": "Yükleniyor",

@@ -1,6 +1,11 @@
 {
   "public_components_dataDisplays_activityFeed_header": "Number of entries by country",
-  "public_components_dataDisplays_mediaUploads_downloadHeader": "Downloading",
+  "public_components_dataDisplays_mediaDetail_addTag": "Add tag",
+  "public_components_dataDisplays_mediaDetail_noTags": "No tags added to this file yet",
+  "public_components_dataDisplays_mediaDetail_tagKey": "Key",
+  "public_components_dataDisplays_mediaDetail_tagValue": "Value",
+  "public_components_dataDisplays_mediaDetail_tagging": "Tags",
+  "public_components_dataDisplays_mediaUploads_downloadHeader":"Downloading",
   "public_components_dataDisplays_mediaUploads_error": "Error",
   "public_components_dataDisplays_mediaUploads_header": "Uploading",
   "public_components_dataDisplays_productQuickView_reviews": "Reviews",
