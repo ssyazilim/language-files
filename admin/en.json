@@ -442,6 +442,8 @@
   "public_pages_private_design_media_index_copy": "Copy",
   "public_pages_private_design_media_index_createNew": "Create new",
   "public_pages_private_design_media_index_delete": "Delete",
+  "public_pages_private_design_media_index_deleteAllVersions": "Delete all versions",
+  "public_pages_private_design_media_index_deleteAllVersionsHint": "This bucket keeps versions. Without this, only the current version is hidden and the file stays in the listing.",
   "public_pages_private_design_media_index_deleteAllWarning": "Deleting everything is a highly risky action. All files in this folder will be permanently removed. Are you sure?",
   "public_pages_private_design_media_index_dimensions": "Dimensions",
   "public_pages_private_design_media_index_documents": "Documents",

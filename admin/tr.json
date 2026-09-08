@@ -442,6 +442,8 @@
   "public_pages_private_design_media_index_copy": "Kopyala",
   "public_pages_private_design_media_index_createNew": "Yeni oluştur",
   "public_pages_private_design_media_index_delete": "Sil",
+  "public_pages_private_design_media_index_deleteAllVersions": "Tüm versiyonları sil",
+  "public_pages_private_design_media_index_deleteAllVersionsHint": "Bu kovada versiyonlama açık. İşaretlemezseniz yalnızca güncel versiyon gizlenir ve dosya listede kalmaya devam eder.",
   "public_pages_private_design_media_index_deleteAllWarning": "Tümünü silme işlemi çok risklidir. Bu klasördeki tüm dosyalar kalıcı olarak silinecek. Emin misiniz?",
   "public_pages_private_design_media_index_dimensions": "Ölçüler",
   "public_pages_private_design_media_index_documents": "Belgeler",
