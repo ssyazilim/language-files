@@ -1,4 +1,9 @@
 {
+  "public_components_form_design_headerMenu_submenuItem_parentMenu": "Üst menü",
+  "public_components_form_design_headerMenu_submenuItem_selectParent": "Üst menü seçin",
+  "public_components_form_design_headerMenu_submenuItem_noParentMenus": "Önce popover türünde bir menü oluşturun",
+  "public_components_form_design_headerMenu_submenuItem_descriptionKey": "Açıklama anahtarı (isteğe bağlı)",
+  "public_components_form_design_headerMenu_submenuItem_enabled": "Alt menüyü etkinleştir",
   "public_components_form_design_headerMenu_menuItem_enabled": "Menüyü etkinleştir",
   "public_components_form_design_headerMenu_menuItem_labelKey": "Etiket anahtarı",
   "public_components_form_design_headerMenu_menuItem_route": "Rota",

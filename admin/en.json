@@ -1,4 +1,9 @@
 {
+  "public_components_form_design_headerMenu_submenuItem_parentMenu": "Parent menu",
+  "public_components_form_design_headerMenu_submenuItem_selectParent": "Select a parent menu",
+  "public_components_form_design_headerMenu_submenuItem_noParentMenus": "Create a popover menu first",
+  "public_components_form_design_headerMenu_submenuItem_descriptionKey": "Description key (optional)",
+  "public_components_form_design_headerMenu_submenuItem_enabled": "Enable submenu",
   "public_components_form_design_headerMenu_menuItem_enabled": "Enable menu",
   "public_components_form_design_headerMenu_menuItem_labelKey": "Label key",
   "public_components_form_design_headerMenu_menuItem_route": "Route",
