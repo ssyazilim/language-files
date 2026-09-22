@@ -1,4 +1,7 @@
 {
+  "public_components_form_design_headerMenu_menuItem_enabled": "Enable menu",
+  "public_components_form_design_headerMenu_menuItem_labelKey": "Label key",
+  "public_components_form_design_headerMenu_menuItem_route": "Route",
   "public_components_dataDisplays_activityFeed_header": "Number of entries by country",
   "public_components_dataDisplays_mediaDetail_addTag": "Add tag",
   "public_components_dataDisplays_mediaDetail_noTags": "No tags added to this file yet",

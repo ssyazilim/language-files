@@ -1,4 +1,7 @@
 {
+  "public_components_form_design_headerMenu_menuItem_enabled": "Menüyü etkinleştir",
+  "public_components_form_design_headerMenu_menuItem_labelKey": "Etiket anahtarı",
+  "public_components_form_design_headerMenu_menuItem_route": "Rota",
   "public_components_dataDisplays_activityFeed_header": "Ülkelere göre giriş sayısı",
   "public_components_dataDisplays_mediaDetail_addTag": "Etiket ekle",
   "public_components_dataDisplays_mediaDetail_noTags": "Bu dosyaya henüz bir etiket eklenmemiş",
